@@ -1,0 +1,32 @@
+* {
+	margin: 0%;
+	padding: 0%;
+}
+img {
+	width: 100%;
+}
+th {
+	text-align: center;
+}
+h1 {
+	text-align: center;
+}
+.title {
+	width: 30%;
+}
+body {
+	background-image: url(https://i.ibb.co/s9GqC0c/finn-the-human-jake-el-perro-hora-de-aventura-adventure-time-wallpaper-preview.png);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+.animate__bounceInDown {
+	display: inline-block;
+	margin: 0 0.5rem;
+	animation: bounce;
+	animation-duration: 2s;
+}
+a:link {
+	color: #110B11;
+	background-color: transparent;
+	text-decoration: none;
+}
