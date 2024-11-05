@@ -30,3 +30,9 @@ a:link {
 	background-color: transparent;
 	text-decoration: none;
 }
+.footer {
+	background-color: white;
+	padding: 20px;
+	margin: 25px;
+	text-align: center;
+}
